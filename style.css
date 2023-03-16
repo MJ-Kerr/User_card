@@ -1,0 +1,18 @@
+.container {
+    width: 70%;
+    height: 0;
+    gap: 20px;
+}
+.blueRow{
+    display: flex;
+    background-color: lightblue;
+    min-width: 100px;
+    flex-direction: row;
+}
+
+.whiteRow{
+    display: flex;
+    background-color: white;
+    min-width: 100px;
+    flex-direction: column;
+}
