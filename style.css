@@ -6,7 +6,8 @@
     border-color: gray;
 }
 .blueRow{
-    background-color: cornflowerblue;
+    display: flex;
+    background-color: #17a2b8;
     align-items: center;
 }
 
@@ -18,5 +19,6 @@
     flex-direction: column;
 }
 .city{
+    display: flex;
     min-width: 10px;
 }
